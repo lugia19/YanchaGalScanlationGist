@@ -1,0 +1,41 @@
+{
+  "title": "Yancha Gal no Anjou-san",
+  "description": "Yancha Gal no Anjou-san",
+  "artist": "KATOU Yuuichi",
+  "author": "KATOU Yuuichi",
+  "cover": "https://i.imgur.com/55Fm7WD.jpg",
+  "chapters": {
+    "94": {
+      "title": "Anjou-San gets the parents' approval",
+      "volume": "8",
+      "groups": {
+        "lugia19": "/proxy/api/imgur/chapter/BuJItRc/"
+      },
+      "last_updated": "1622208423"
+    },
+   "95": {
+      "title": "Anjou-san wants to be together",
+      "volume": "8",
+      "groups": {
+        "lugia19": "/proxy/api/imgur/chapter/kp66aAh/"
+      },
+      "last_updated": "1622208423"
+    },
+    "96": {
+      "title": "Seto's prophetic dream",
+      "volume": "8",
+      "groups": {
+        "lugia19": "/proxy/api/imgur/chapter/0jgc34E/"
+      },
+      "last_updated": "1622208423"
+    },
+    "97": {
+      "title": "Anjou-san and Seto wake up together",
+      "volume": "8",
+      "groups": {
+        "lugia19": "/proxy/api/imgur/chapter/B3fbKbv/"
+      },
+      "last_updated": "1622222966"
+    }
+  }
+}
